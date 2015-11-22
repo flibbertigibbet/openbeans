@@ -8,9 +8,9 @@
         <version>5</version>
     </parent>
 
-    <groupId>com.googlecode.openbeans</groupId>
-    <artifactId>openbeans</artifactId>
-    <version>v1.2</version>
+    <groupId>java</groupId>
+    <artifactId>beans</artifactId>
+    <version>v1.2.1</version>
 
     <packaging>pom</packaging>
     <name>openbeans</name>
