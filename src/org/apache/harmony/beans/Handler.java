@@ -26,7 +26,7 @@ import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
 
-import com.googlecode.openbeans.XMLDecoder;
+import java.beans.XMLDecoder;
 
 public class Handler extends DefaultHandler {
 

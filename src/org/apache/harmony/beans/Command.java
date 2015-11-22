@@ -27,14 +27,14 @@ import java.util.Vector;
 import org.apache.harmony.beans.internal.nls.Messages;
 import org.xml.sax.Attributes;
 
-import com.googlecode.openbeans.BeanInfo;
-import com.googlecode.openbeans.Expression;
-import com.googlecode.openbeans.IndexedPropertyDescriptor;
-import com.googlecode.openbeans.IntrospectionException;
-import com.googlecode.openbeans.Introspector;
-import com.googlecode.openbeans.PropertyDescriptor;
-import com.googlecode.openbeans.Statement;
-import com.googlecode.openbeans.XMLDecoder;
+import java.beans.BeanInfo;
+import java.beans.Expression;
+import java.beans.IndexedPropertyDescriptor;
+import java.beans.IntrospectionException;
+import java.beans.Introspector;
+import java.beans.PropertyDescriptor;
+import java.beans.Statement;
+import java.beans.XMLDecoder;
 
 public class Command {
 

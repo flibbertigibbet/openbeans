@@ -17,7 +17,7 @@
 
 package org.apache.harmony.beans.editors;
 
-import com.googlecode.openbeans.PropertyEditorSupport;
+import java.beans.PropertyEditorSupport;
 
 public final class LongEditor extends PropertyEditorSupport {
 
