@@ -10,7 +10,7 @@
 
     <groupId>com.googlecode.openbeans</groupId>
     <artifactId>openbeans</artifactId>
-    <version>v1.1</version>
+    <version>v1.2</version>
 
     <packaging>pom</packaging>
     <name>openbeans</name>
